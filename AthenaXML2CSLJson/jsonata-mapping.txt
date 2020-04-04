@@ -1,0 +1,70 @@
+ROOT.INDEX.(
+    {
+        "id":$.IDO._text,
+        "type":"article-journal",
+        "title":$.TIT._text,
+        "abstract":$.REA._text,
+        "language":$.LAN._text,
+        "number-of-pages":$._attributes.NBPAGE,
+        "page":$.PAG._text,
+        "volume":$.VOL._text,
+        "editor":$.EDI._text,
+		"issued": {
+			"date-parts": [
+				[$reverse([$split($.DPU._text, "/")])]
+			]
+		},
+
+        "ISSN":$.ISS._text,
+        "ISBN":$.ISB._text,
+        "DOI":$.IDO._text,
+        "K_H":$.K_H._text,
+
+        "submitted":$.DPU._text,
+        "DCR":$.DCR._text,
+        "DDM":$.DDM._text,
+        "DBP":$.DBP._text,
+
+        "ECE":$.ECE._text,
+        "DOM":$.DOM._text,
+        "AXP":$.AXP._text,
+        "TRP":$.TRP._text,
+        "NEP":$.NEP._text,
+        "UEP":$.UEP._text,
+        "TRV":$.TRV._text,
+        "NEV":$.NEV._text,
+        "COG":$.COG._text,
+        "REE":$.REE._text,
+        "IRO":$.IRO._text,
+        "ETA":$.ETA._text,
+        "ACO":$.ACO._text,
+        "CDL":$.CDL._text,
+        "DIR":$.DIR._text,
+        "CDS":$.CDS._text,
+        "DDU":$.DDU._text,
+        "REG":$.REG._text,
+        "PDF":$.PDF._text,
+
+        "author":$.TABLEAU_AUT.INDEX.({
+            "family":$.NOM._text,
+            "given":$.PRE._text,
+            "ORD":$.ORD._text,
+            "QUA":$.QUA._text,
+            "COU":$.COU._text,
+            "ORG":$.ORG._text,
+            "SIG":$.SIG._text,
+            "UNI":$.UNI._text,
+            "COL":$.COL._text,
+            "PAY":$.PAY._text,
+            "IOR":$.IOR._text,
+            "LTA":$.LTA._text,
+            "ACO":$.ACO._text,
+            "NUD":$.NUD._text,
+            "IDH":$.IDH._text,
+            "ETU":$.ETU._text,
+            "PIA":$.PIA._text,
+            "CSR":$.CSR._text,
+            "DCR":$.DCR._text
+        })
+    }
+)

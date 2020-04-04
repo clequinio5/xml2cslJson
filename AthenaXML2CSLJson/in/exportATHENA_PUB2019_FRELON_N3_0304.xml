@@ -1,0 +1,1350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+<INDEX NUMINFO="164615" TYPE="DOS" NBPAGE="3">
+<CONF IND="0" NIV="0" CLOI=""/>
+<TABLEAU_AUT>
+<INDEX NUMINFO="164616" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>2</ORD>
+<QUA>REFERENT</QUA>
+<NOM>FRELON</NOM>
+<COU>sandrine.frelon@irsn.fr</COU>
+<PRE>Sandrine</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>FRELON                                            -SANDRINE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164616</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU>FONCTION:ADMIN
+FONCTION:DOC_ADMIN</ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164616</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164619" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>13</ORD>
+<QUA></QUA>
+<NOM>SIMON</NOM>
+<COU>olivier.simon@irsn.fr</COU>
+<PRE>Olivier</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>SIMON                                             -OLIVIER                       -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164619</NUD>
+<IDH>300040</IDH>
+<PPL>CORRESPONDING AUTHOR</PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164619</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164621" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>5</ORD>
+<QUA></QUA>
+<NOM>CAMILLERI</NOM>
+<COU>virginie.camilleri@irsn.fr</COU>
+<PRE>Virginie</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>CAMILLERI                                         -VIRGINIE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164621</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164621</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164624" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>7</ORD>
+<QUA></QUA>
+<NOM>PIERRISNARD</NOM>
+<COU>sylvie.pierrisnard@irsn.fr</COU>
+<PRE>Sylvie</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LR2T</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>PIERRISNARD                                       -SYLVIE                        -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164624</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164624</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164625" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>8</ORD>
+<QUA></QUA>
+<NOM>CARASCO</NOM>
+<COU>loic.carasco@irsn.fr</COU>
+<PRE>Loic</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LR2T</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>CARASCO                                           -LOIC                          -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164625</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164625</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164626" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>6</ORD>
+<QUA></QUA>
+<NOM>FEVRIER</NOM>
+<COU>laureline.fevrier@irsn.fr</COU>
+<PRE>Laureline</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LR2T</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>FEVRIER                                           -LAURELINE                     -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164626</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164626</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164627" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>9</ORD>
+<QUA></QUA>
+<NOM>GILBIN</NOM>
+<COU>rodolphe.gilbin@irsn.fr</COU>
+<PRE>Rodolphe</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>GILBIN                                            -RODOLPHE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164627</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164627</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164628" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>4</ORD>
+<QUA></QUA>
+<NOM>EB-LEVADOUX</NOM>
+<COU></COU>
+<PRE>Yvan</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO </UNI>
+<COL>BP3 - 13115 St Paul lez Durance Cedex</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164628</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164628</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164630" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>1</ORD>
+<QUA></QUA>
+<NOM>MOUNICOU</NOM>
+<COU></COU>
+<PRE>Sandra</PRE>
+<ORG>CNRS/Univ Pau &#38; Pays Adour ES UPPA, Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux</ORG>
+<SIG>CNRS</SIG>
+<UNI>UMR5254</UNI>
+<COL>Pau</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164630</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164630</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164632" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>10</ORD>
+<QUA></QUA>
+<NOM>MAHE</NOM>
+<COU></COU>
+<PRE>Kelig</PRE>
+<ORG>IFREMER Centre Manche Mer du Nord</ORG>
+<SIG>IFREMER</SIG>
+<UNI>Laboratoire ressources halieutiques</UNI>
+<COL>Boulogne-sur-mer</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164632</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164632</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164634" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>11</ORD>
+<QUA></QUA>
+<NOM>TABOURET</NOM>
+<COU></COU>
+<PRE>Hélène</PRE>
+<ORG>Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux, CNRS/Univ Pau &#38; Pays Adour/ E2S UPPA</ORG>
+<SIG>IPREM</SIG>
+<UNI>UMR5254</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>TABOURET                                          -HELENE                        -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164634</NUD>
+<IDH>502092</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164634</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164635" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>12</ORD>
+<QUA></QUA>
+<NOM>BAREILLE</NOM>
+<COU></COU>
+<PRE>Gilles</PRE>
+<ORG>Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux, CNRS/Univ Pau &#38; Pays Adour/ E2S UPPA</ORG>
+<SIG>IPREM</SIG>
+<UNI>UMR5254</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164635</NUD>
+<IDH>502092</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164635</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164637" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>3</ORD>
+<QUA></QUA>
+<NOM>LE GUERNIC</NOM>
+<COU></COU>
+<PRE>Antoine</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire (IRSN)</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7703</LTA>
+<LAU>LE GUERNIC                                        -ANTOINE                       -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164637</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164637</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+</TABLEAU_AUT>
+<K_H>PUB20200053</K_H>
+<AUR>FRELON-SAN</AUR>
+<IDA>164615</IDA>
+<TPU>Publication écrite</TPU>
+<TIT>Use of ﬁsh otoliths as a temporal biomarker of ﬁeld uranium exposure </TIT>
+<REI></REI>
+<REA>This study aimed to determine uranium (U) pollution over time using otoliths as a marker of fish U contamination. Experiments were performed in field contamination (~20 pg L-1: encaged fish: 15d, 50d and collected wild fish) and in laboratory exposure conditions (20 and 250 pg L-1,20d). We reported the U seasonal concentrations in field waterborne exposed roach fish (Rutilus rutilus), in organs and otoliths. Otoliths were analyzed by ICPMS and LA-ICP SF MS of the entire growth zone.
+Concentrations were measured on transects from nucleus to the edge of otoliths to characterize environmental variations of metal accumulation. Results showed a spatial and temporal variation of U contamination in water (from 51 to 9.4 pg L-1 at the surface of the water column), a high and seasonal accumulation in fish organs, mainly the digestive tract (from 1000 to 30,000 ng g-1, fw), the gills (from 1600to3200ngg-1,fw) and the muscle (from 144 to 1054 ng g-1, fw). U was detected throughout the otolith and accumulation varied over the sea- son from 70 to 350 ng g-1, close to the values measured (310 ng g-1) after high exposure levels in laboratory conditions. U in otoliths of encaged fish showed rapid and high U accumulation from 20 to 150 ng g-1. The U accumulation signal was mainly detected on the edge of the otolith, showing two U accumulation peaks, probably correlated to fish age, i.e. 2 years old. Surprisingly, elemental U and Zn signatures followed the same pattern therefore using the same uptake pathways. Laboratory, caging and field experiments indicated that otoliths were able to quickly accumulate U on the surface even for low levels and to store high levels of U. This study is an encouraging first step in using otoliths as a marker of U exposure.</REA>
+<LAN>en</LAN>
+<STY>ACL</STY>
+<TMP></TMP>
+<JUR></JUR>
+<DPP></DPP>
+<MOR></MOR>
+<MOA></MOA>
+<HAR></HAR>
+<ECE>NON</ECE>
+<DOM>Secteur 6 - Recherche en Radioprotection</DOM>
+<AXP>AP 003/10 - Risques Environnementaux</AXP>
+<IPE>OPERA</IPE>
+<MPA></MPA>
+<INC>03/03/2020 à 18:50 : LRN applicable
+03/02/2020 à 11:23 : Available online 02 July 2019; published 10/11/2019
+
+This work was supported by the Needs Environment consortium (CNRS, ANDRA, EDF, IRSN). LRN ?
+
+Author's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License
+</INC>
+<REM></REM>
+<TRP>can</TRP>
+<DEP>Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;</DEP>
+<NEP>24</NEP>
+<UEP>month</UEP>
+<DBP>03/07/2021</DBP>
+<TRV>cannot</TRV>
+<DEV></DEV>
+<NEV>0</NEV>
+<UEV></UEV>
+<DBV></DBV>
+<COG>Authors pre-print on any website, including arXiv and RePEC
+Author's post-print on author's personal website immediately
+Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Permitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; to &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Author's post-print may be used to update arXiv and RepEC
+Publisher's version/PDF cannot be used
+Must link to publisher version with DOI
+Author's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License
+Publisher last reviewed on 03/06/2015</COG>
+<REE>NON</REE>
+<ICO></ICO>
+<ABR></ABR>
+<LIE></LIE>
+<PAY></PAY>
+<DDE></DDE>
+<DFI></DFI>
+<IRO>Science of the Total Environment</IRO>
+<ABI>Sci. Total Environ.</ABI>
+<ISB></ISB>
+<ISS>0048-9697</ISS>
+<DPU>02/07/2019</DPU>
+<VOL>690</VOL>
+<NUM></NUM>
+<PAG>511–521</PAG>
+<IDO>10.1016/j.scitotenv.2019.06.534 </IDO>
+<ETA>PUBLIÉ</ETA>
+<HIS>03/04/2020 à 10:24 : La fiche a été mise à jour par LEGENDRE-AUD
+03/04/2020 à 10:23 : La fiche a été mise à jour par LEGENDRE-AUD
+03/03/2020 à 18:50 : Le dossier a été validé par LEGENDRE-AUD
+03/03/2020 à 18:50 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 11:23 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 11:22 : Check Sherpa effectué par LEGENDRE-AUD
+31/01/2020 à 12:35 : Le dossier a été envoyé pour validation par FRELON-SAN
+31/01/2020 à 12:27 : Check Sherpa effectué par FRELON-SAN
+30/01/2020 à 14:49 : La fiche de régularisation a été créée par FRELON-SAN</HIS>
+<DCR>30/01/2020</DCR>
+<DDM>03/03/2020</DDM>
+<ACO>OUI</ACO>
+<AVU>FRELON-SAN
+
+PROFIL:RESP_INNOVATION
+LALOI-PAT
+BESNUS-FRA
+
+
+PROFIL:DOC_ADMIN
+PROFIL:ADMIN</AVU>
+<AMO>SESIN</AMO>
+<ASU>SESIN</ASU>
+<TVT></TVT>
+<NOM>FRELON</NOM>
+<PRE>Sandrine</PRE>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<CDL>LALOI-PAT</CDL>
+<DIR>BESNUS-FRA</DIR>
+<DBO></DBO>
+<DBD></DBD>
+<DBA></DBA>
+<CDS>NON</CDS>
+<DDU>NON</DDU>
+<REG>OUI</REG>
+<PDF>OUI</PDF>
+<HAL>ERR</HAL>
+<EEH>[ERROR]
+[The supplied format is not the same as that identified in the Packaging header and/or that supported by the server]
+[processing failed]
+[The supplied XML description does not validate the AOfr schema... The document has no document element.]
+</EEH>
+<CRE>FRELON-SAN</CRE>
+<DEL></DEL>
+<EDI>Elsevier</EDI>
+<AVI></AVI>
+<AUD></AUD>
+<DDL></DDL>
+<DAA></DAA>
+<CLD></CLD>
+<CSH>OUI</CSH>
+<UCP>732</UCP>
+<UCV></UCV>
+<PIA></PIA>
+<NPD></NPD>
+<NDS></NDS>
+<MDS></MDS>
+<MAT>IRSN.ATHENA@irsn.fr</MAT>
+<DHA>sde</DHA>
+<NRF>0</NRF>
+<DVA>03/03/2020</DVA>
+<IDM></IDM>
+<REP>1</REP>
+<DAL></DAL>
+<LDA> FRELON SIMON CAMILLERI PIERRISNARD CARASCO FEVRIER GILBIN EB-LEVADOUX MOUNICOU MAHE TABOURET BAREILLE LE GUERNIC</LDA>
+<ARV>contact AUT REF</ARV>
+<ONG>DOSSIER</ONG>
+<GVS>NON</GVS>
+<CKH>PUB20200053</CKH>
+<NDO>PUB20200053</NDO>
+<DD2></DD2>
+<PRI>RESP_INNOVATION</PRI>
+<VDI></VDI>
+<VRI></VRI>
+<DRF></DRF>
+<PDA></PDA>
+<VAE>30/01/2020</VAE>
+<TIE></TIE>
+<PI1></PI1>
+<PI2></PI2>
+<NUD>164615</NUD>
+<ORG></ORG>
+</INDEX>
+<INDEX NUMINFO="164598" TYPE="DOS" NBPAGE="7">
+<CONF IND="0" NIV="0" CLOI=""/>
+<TABLEAU_AUT>
+<INDEX NUMINFO="164599" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>9</ORD>
+<QUA>REFERENT</QUA>
+<NOM>FRELON</NOM>
+<COU>sandrine.frelon@irsn.fr</COU>
+<PRE>Sandrine</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU>FRELON                                            -SANDRINE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164599</NUD>
+<IDH>300040</IDH>
+<PPL>CORRESPONDING AUTHOR</PPL>
+<ASU>FONCTION:ADMIN
+FONCTION:DOC_ADMIN</ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164599</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164600" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>1</ORD>
+<QUA></QUA>
+<NOM>DUBOIS</NOM>
+<COU></COU>
+<PRE>Cécile</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164600</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164600</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164602" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>2</ORD>
+<QUA></QUA>
+<NOM>POPHILLAT</NOM>
+<COU></COU>
+<PRE>Matthieu</PRE>
+<ORG>Aix-Marseille Univ, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Protéomique</ORG>
+<SIG></SIG>
+<UNI>CRCM</UNI>
+<COL>Marseille</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164602</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164602</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164604" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>8</ORD>
+<QUA></QUA>
+<NOM>CAMOIN</NOM>
+<COU></COU>
+<PRE>Luc</PRE>
+<ORG>Aix-Marseille University, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Proteomics</ORG>
+<SIG>CRCM</SIG>
+<UNI></UNI>
+<COL>Marseille</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU>CAMOIN                                            -LUC                           -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164604</NUD>
+<IDH></IDH>
+<PPL>CORRESPONDING AUTHOR</PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_V</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164604</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164605" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>3</ORD>
+<QUA></QUA>
+<NOM>AUDEBERT</NOM>
+<COU></COU>
+<PRE>Stéphane</PRE>
+<ORG>Aix-Marseille University, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Proteomics</ORG>
+<SIG>CRCM</SIG>
+<UNI></UNI>
+<COL>Marseille</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU>AUDEBERT                                          -STEPHANE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164605</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_V</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164605</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164606" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>4</ORD>
+<QUA></QUA>
+<NOM>FOURQUET</NOM>
+<COU></COU>
+<PRE>Patrick</PRE>
+<ORG>Aix-Marseille Univ, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Protéomique</ORG>
+<SIG></SIG>
+<UNI>CRCM</UNI>
+<COL>Marseille</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164606</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164606</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164608" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>7</ORD>
+<QUA></QUA>
+<NOM>GALAS</NOM>
+<COU></COU>
+<PRE>Simon</PRE>
+<ORG>IBMM, University of Montpellier, CNRS, ENSCM</ORG>
+<SIG>IBMM</SIG>
+<UNI></UNI>
+<COL>Montpellier</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164608</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_V</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164608</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164610" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>5</ORD>
+<QUA></QUA>
+<NOM>LECOMTE</NOM>
+<COU>catherine.lecomte-pradines@irsn.fr</COU>
+<PRE>Catherine</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU>LECOMTE                                           -CATHERINE                     -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164610</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164610</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164611" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>6</ORD>
+<QUA></QUA>
+<NOM>DUBOURG</NOM>
+<COU>nicolas.dubourg@irsn.fr</COU>
+<PRE>Nicolas</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7702</LTA>
+<LAU>DUBOURG                                           -NICOLAS                       -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164611</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164611</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+</TABLEAU_AUT>
+<K_H>PUB20200052</K_H>
+<AUR>FRELON-SAN</AUR>
+<IDA>164598</IDA>
+<TPU>Publication écrite</TPU>
+<TIT>Differential modification of the C. elegans proteome in response to acute and chronic gamma radiation: link with reproduction decline</TIT>
+<REI></REI>
+<REA>Emission of ionizing radiation in the environment is a natural phenomenon which can be enhanced by human activities. Ecosystems are then chronically exposed to ionizing radiations. But environmental risk assessment of chronic exposure suffers from a lack of knowledge. Extrapolation of data from acute to chronic exposure is not always relevant, and can lead to uncertainties as effects could be different between the two irradiation modes, especially regarding reproduction endpoint, which is an ecologically relevant parameter. In the present study, we decided to refine the understanding of the molecular mechanisms involved in response to acute and chronic -irradiation by a global proteome label free LC-MS/MS analysis. C. elegans were exposed to 3 common cumulated radiation doses for acute or chronic exposure condition and global modification of the proteome was studied. This global analysis of protein expression has demonstrated the modulation of proteins involved in regulatory biological processes such as lipid transport, DNA replication, germ cell development, apoptosis, ion transport, cuticle development, and aging at lower doses than those for which individual effects on reproduction have been previously observed. Thus, these proteins could constitute early and sensitive markers of radio-induced reprotoxicity; more specifically HAT-1, RPS-19 in acute and VIT-3 for chronic conditions that are expressed in a dose-dependent manner. Finally, to focus on reproduction process, the proteomic analysis showed either repression or overexpression of 12 common proteins in organisms exposed to acute or chronic irradiation, respectively. These proteins include the vitellogenin cluster notably involved in lipid transport and ovocyte maturation and proteins involved in cuticle development and molting i.e COL-14, GLF-1, NOAH-1, NOAH-2, ACN-1. This results show that protein expression modulation is a sensitive and predictive marker of the effects of acute and chronic exposure regarding reproduction parameter, but also highlight limitation of data extrapolation from acute to chronic exposure.</REA>
+<LAN>en</LAN>
+<STY>ACL</STY>
+<TMP></TMP>
+<JUR></JUR>
+<DPP></DPP>
+<MOR></MOR>
+<MOA></MOA>
+<HAR></HAR>
+<ECE>NON</ECE>
+<DOM>Secteur 6 - Recherche en Radioprotection</DOM>
+<AXP>AP 003/07 - Effets biologiques et sanitaires des RI</AXP>
+<IPE>ISATIS</IPE>
+<MPA></MPA>
+<INC>13/02/2020 à 09:34 : HAL Ok
+03/02/2020 à 10:25 : Available online 23 April 2019; published 01/08/2019
+
+add SI
+
+Authors want to thanks Needs Environment consortium for the PROBIORICA project support. LRN applicable
+</INC>
+<REM></REM>
+<TRP>can</TRP>
+<DEP>Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;</DEP>
+<NEP>6</NEP>
+<UEP>month</UEP>
+<DBP>23/10/2019</DBP>
+<TRV>cannot</TRV>
+<DEV></DEV>
+<NEV>0</NEV>
+<UEV></UEV>
+<DBV></DBV>
+<COG>Authors pre-print on any website, including arXiv and RePEC
+Author's post-print on author's personal website immediately
+Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Permitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; to &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Author's post-print may be used to update arXiv and RepEC
+Publisher's version/PDF cannot be used
+Must link to publisher version with DOI
+Author's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License
+Publisher last reviewed on 03/06/2015</COG>
+<REE>NON</REE>
+<ICO></ICO>
+<ABR></ABR>
+<LIE></LIE>
+<PAY></PAY>
+<DDE></DDE>
+<DFI></DFI>
+<IRO>Science of the Total Environment</IRO>
+<ABI>Sci. Total Environ.</ABI>
+<ISB></ISB>
+<ISS>0048-9697</ISS>
+<DPU>23/04/2019</DPU>
+<VOL>676</VOL>
+<NUM></NUM>
+<PAG>767-781</PAG>
+<IDO>10.1016/j.scitotenv.2019.04.039</IDO>
+<ETA>PUBLIÉ</ETA>
+<HIS>13/02/2020 à 09:34 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 21:03 : Dossier exporté dans HAL
+03/02/2020 à 10:39 : Le dossier a été validé par LEGENDRE-AUD
+03/02/2020 à 10:39 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 10:25 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 10:21 : Check Sherpa effectué par LEGENDRE-AUD
+31/01/2020 à 16:15 : Le dossier a été envoyé pour validation par FRELON-SAN
+31/01/2020 à 16:11 : Check Sherpa effectué par FRELON-SAN
+31/01/2020 à 16:11 : Check Sherpa effectué par FRELON-SAN
+30/01/2020 à 15:24 : La fiche a été mise à jour par LEGENDRE-AUD
+30/01/2020 à 14:21 : La fiche de régularisation a été créée par FRELON-SAN</HIS>
+<DCR>30/01/2020</DCR>
+<DDM>03/02/2020</DDM>
+<ACO>OUI</ACO>
+<AVU>FRELON-SAN
+
+PROFIL:RESP_INNOVATION
+LALOI-PAT
+BESNUS-FRA
+
+
+PROFIL:DOC_ADMIN
+PROFIL:ADMIN</AVU>
+<AMO>SESIN</AMO>
+<ASU>SESIN</ASU>
+<TVT></TVT>
+<NOM>FRELON</NOM>
+<PRE>Sandrine</PRE>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<CDL>LALOI-PAT</CDL>
+<DIR>BESNUS-FRA</DIR>
+<DBO></DBO>
+<DBD></DBD>
+<DBA></DBA>
+<CDS>NON</CDS>
+<DDU>NON</DDU>
+<REG>OUI</REG>
+<PDF>OUI</PDF>
+<HAL>OUI</HAL>
+<EEH></EEH>
+<CRE>FRELON-SAN</CRE>
+<DEL></DEL>
+<EDI>Elsevier</EDI>
+<AVI></AVI>
+<AUD></AUD>
+<DDL></DDL>
+<DAA></DAA>
+<CLD></CLD>
+<CSH>OUI</CSH>
+<UCP>183</UCP>
+<UCV></UCV>
+<PIA></PIA>
+<NPD></NPD>
+<NDS></NDS>
+<MDS></MDS>
+<MAT>IRSN.ATHENA@irsn.fr</MAT>
+<DHA>sdv</DHA>
+<NRF>0</NRF>
+<DVA>03/02/2020</DVA>
+<IDM></IDM>
+<REP>1</REP>
+<DAL></DAL>
+<LDA> FRELON DUBOIS POPHILLAT CAMOIN AUDEBERT FOURQUET GALAS LECOMTE DUBOURG</LDA>
+<ARV></ARV>
+<ONG>DOSSIER</ONG>
+<GVS>NON</GVS>
+<CKH>PUB20200052</CKH>
+<NDO>PUB20200052</NDO>
+<DD2></DD2>
+<PRI>RESP_INNOVATION</PRI>
+<VDI></VDI>
+<VRI></VRI>
+<DRF></DRF>
+<PDA></PDA>
+<VAE>30/01/2020</VAE>
+<TIE></TIE>
+<PI1></PI1>
+<PI2></PI2>
+<NUD>164598</NUD>
+<ORG></ORG>
+</INDEX>
+<INDEX NUMINFO="164568" TYPE="DOS" NBPAGE="4">
+<CONF IND="0" NIV="0" CLOI=""/>
+<TABLEAU_AUT>
+<INDEX NUMINFO="164569" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>6</ORD>
+<QUA>REFERENT</QUA>
+<NOM>FRELON</NOM>
+<COU>sandrine.frelon@irsn.fr</COU>
+<PRE>Sandrine</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU>FRELON                                            -SANDRINE                      -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164569</NUD>
+<IDH>300040</IDH>
+<PPL>CORRESPONDING AUTHOR</PPL>
+<ASU>FONCTION:ADMIN
+FONCTION:DOC_ADMIN</ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164569</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164574" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>3</ORD>
+<QUA></QUA>
+<NOM>LECOMTE-PRADINES</NOM>
+<COU></COU>
+<PRE>Catherine</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire (IRSN)</ORG>
+<SIG></SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU>LECOMTE-PRADINES                                  -CATHERINE                     -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164574</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164574</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164575" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>2</ORD>
+<QUA></QUA>
+<NOM>GALAS</NOM>
+<COU></COU>
+<PRE>Simon</PRE>
+<ORG>IBMM, University of Montpellier, CNRS, ENSCM</ORG>
+<SIG></SIG>
+<UNI></UNI>
+<COL>Montpellier</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164575</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_V</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164575</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164579" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>4</ORD>
+<QUA></QUA>
+<NOM>DUBOIS</NOM>
+<COU></COU>
+<PRE>Cécile</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>LECO</UNI>
+<COL>Cadarache, 13115 Saint Paul lez Durance Cedex</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU></LAU>
+<ACO>OUI</ACO>
+<NUD>164579</NUD>
+<IDH></IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_C_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164579</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164581" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>5</ORD>
+<QUA></QUA>
+<NOM>DUBOURG</NOM>
+<COU>nicolas.dubourg@irsn.fr</COU>
+<PRE>Nicolas</PRE>
+<ORG>Institut de radioprotection et sûreté nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL>Cadarache</COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU>DUBOURG                                           -NICOLAS                       -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164581</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT></EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164581</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+<INDEX NUMINFO="164649" TYPE="TAU" NBPAGE="0">
+<CONF IND="0" NIV="0" CLOI=""/>
+<ORD>1</ORD>
+<QUA></QUA>
+<NOM>KUZMIC</NOM>
+<COU></COU>
+<PRE>Mira</PRE>
+<ORG>Institut de Radioprotection et de Sûreté Nucléaire</ORG>
+<SIG>IRSN</SIG>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<COL></COL>
+<PAY>fr</PAY>
+<IOR></IOR>
+<LTA>7700</LTA>
+<LAU>KUZMIC                                            -MIRA                          -01</LAU>
+<ACO>OUI</ACO>
+<NUD>164649</NUD>
+<IDH>300040</IDH>
+<PPL></PPL>
+<ASU></ASU>
+<ETU>VALIDE</ETU>
+<EXT>OUI</EXT>
+<PIA>France</PIA>
+<CSR>INS_E_LAB_C</CSR>
+<IDM></IDM>
+<DCR>30/01/2020</DCR>
+<REP></REP>
+<ARV></ARV>
+<TYP>TAU</TYP>
+<CKH>164649</CKH>
+<ONG>TAU</ONG>
+</INDEX>
+</TABLEAU_AUT>
+<K_H>PUB20200050</K_H>
+<AUR>FRELON-SAN</AUR>
+<IDA>164568</IDA>
+<TPU>Publication écrite</TPU>
+<TIT>Interplay between ionizing radiation effects and aging in C. elegans</TIT>
+<REI></REI>
+<REA>Living species are chronically exposed to environmental ionizing radiations from sources that can be overexpressed by nuclear accidents. In invertebrates, reproduction is the most radiosensitive studied endpoint, likely to be connected with aging. Surprisingly, aging is a sparsely investigated endpoint after chronic ionizing radiation, whereas understanding it is of fundamental interest in biology and medicine. Indeed, aging and aging-related diseases (e.g., cancer and degenerative diseases) cause about 90 % of deaths in developed countries. Therefore, glp-1 sterile Caenorhabditis elegans nematode was used to assess the impact of chronic gamma irradiation on the lifespan. Analyses were performed, at the individual level, on aging and, in order to delve deeper into the mechanisms, at the molecular level, on oxidative damage (carbonylation), biomolecules (lipids, proteins and nucleic acids) and their colocalization. We observed that ionizing radiation accelerates aging (whatever the duration (3 to 19 days)/dose (0.5 to 24 Gy)/dose rate (7 and 52 mGy.h 1) tested) leading to a longevity value equivalent to that of wt nematode (~25-30 days). Moreover, the level of protein oxidative damage (carbonylation) turned out to be good cellular biomarker of aging, since it increases with age. Conversely, chronic radiation treatments reduced carbonylation levels and induced neutral lipid catabolism whatever the dose rate and the final delivered dose. Finally, under some conditions a lipid-protein colocalization without any carbonyl was observed; this could be linked to yolk accumulation in glp-1 nematodes. To conclude, we noticed through this study a link between chronic gamma exposure, lifespan shortening and lipid level decrease associated with a decrease in the overall carbonylation.</REA>
+<LAN>en</LAN>
+<STY>ACL</STY>
+<TMP></TMP>
+<JUR></JUR>
+<DPP></DPP>
+<MOR></MOR>
+<MOA></MOA>
+<HAR></HAR>
+<ECE>NON</ECE>
+<DOM>Secteur 6 - Recherche en Radioprotection</DOM>
+<AXP>AP 003/07 - Effets biologiques et sanitaires des RI</AXP>
+<IPE>ISATIS</IPE>
+<MPA></MPA>
+<INC>20/03/2020 à 16:59 : fonds publics de financement &#62;50%.
+03/02/2020 à 11:09 : Available online 08 February 2019; published 01/04/2019
+
+The authors thank the IRSN, MedILS and ERASMUS for their financial support.  LRN ?
+
+Author's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License
+</INC>
+<REM></REM>
+<TRP>can</TRP>
+<DEP>Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;</DEP>
+<NEP>6</NEP>
+<UEP>month</UEP>
+<DBP>10/08/2019</DBP>
+<TRV>cannot</TRV>
+<DEV></DEV>
+<NEV>0</NEV>
+<UEV></UEV>
+<DBV></DBV>
+<COG>Authors pre-print on any website, including arXiv and RePEC
+Author's post-print on author's personal website immediately
+Author's post-print on open access repository after an embargo period of between &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; and &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Permitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of &#60;num&#62;12&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62; to &#60;num&#62;48&#60;/num&#62; &#60;period units=&#34;month&#34;&#62;months&#60;/period&#62;
+Author's post-print may be used to update arXiv and RepEC
+Publisher's version/PDF cannot be used
+Must link to publisher version with DOI
+Author's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License
+Publisher last reviewed on 03/06/2015</COG>
+<REE>NON</REE>
+<ICO></ICO>
+<ABR></ABR>
+<LIE></LIE>
+<PAY></PAY>
+<DDE></DDE>
+<DFI></DFI>
+<IRO>Free Radical Biology and Medicine
+</IRO>
+<ABI></ABI>
+<ISB></ISB>
+<ISS>0891-5849</ISS>
+<DPU>08/02/2019</DPU>
+<VOL>134</VOL>
+<NUM></NUM>
+<PAG>657–665</PAG>
+<IDO>10.1016/j.freeradbiomed.2019.02.002</IDO>
+<ETA>PUBLIÉ</ETA>
+<HIS>20/03/2020 à 16:59 : Le dossier a été validé par LEGENDRE-AUD
+20/03/2020 à 16:59 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 11:09 : La fiche a été mise à jour par LEGENDRE-AUD
+03/02/2020 à 11:02 : Check Sherpa effectué par LEGENDRE-AUD
+31/01/2020 à 16:26 : Le dossier a été envoyé pour validation par FRELON-SAN
+31/01/2020 à 16:26 : Check Sherpa effectué par FRELON-SAN
+30/01/2020 à 15:25 : La fiche a été mise à jour par LEGENDRE-AUD
+30/01/2020 à 13:59 : La fiche de régularisation a été créée par FRELON-SAN</HIS>
+<DCR>30/01/2020</DCR>
+<DDM>20/03/2020</DDM>
+<ACO>OUI</ACO>
+<AVU>FRELON-SAN
+
+PROFIL:RESP_INNOVATION
+LALOI-PAT
+BESNUS-FRA
+
+
+PROFIL:DOC_ADMIN
+PROFIL:ADMIN</AVU>
+<AMO>SESIN</AMO>
+<ASU>SESIN</ASU>
+<TVT></TVT>
+<NOM>FRELON</NOM>
+<PRE>Sandrine</PRE>
+<UNI>PSE-ENV/SRTE/LECO</UNI>
+<CDL>LALOI-PAT</CDL>
+<DIR>BESNUS-FRA</DIR>
+<DBO></DBO>
+<DBD></DBD>
+<DBA></DBA>
+<CDS>NON</CDS>
+<DDU>NON</DDU>
+<REG>OUI</REG>
+<PDF>OUI</PDF>
+<HAL>NON</HAL>
+<EEH></EEH>
+<CRE>FRELON-SAN</CRE>
+<DEL></DEL>
+<EDI>ELSEVIER</EDI>
+<AVI></AVI>
+<AUD></AUD>
+<DDL></DDL>
+<DAA></DAA>
+<CLD></CLD>
+<CSH>OUI</CSH>
+<UCP>183</UCP>
+<UCV></UCV>
+<PIA></PIA>
+<NPD></NPD>
+<NDS></NDS>
+<MDS></MDS>
+<MAT>IRSN.ATHENA@irsn.fr</MAT>
+<DHA>sdv</DHA>
+<NRF>0</NRF>
+<DVA>20/03/2020</DVA>
+<IDM></IDM>
+<REP>1</REP>
+<DAL></DAL>
+<LDA> FRELON LECOMTE-PRADINES GALAS DUBOIS DUBOURG KUZMIC</LDA>
+<ARV>contact AUT REF</ARV>
+<ONG>DOSSIER</ONG>
+<GVS>NON</GVS>
+<CKH>PUB20200050</CKH>
+<NDO>PUB20200050</NDO>
+<DD2></DD2>
+<PRI>RESP_INNOVATION</PRI>
+<VDI></VDI>
+<VRI></VRI>
+<DRF></DRF>
+<PDA></PDA>
+<VAE>30/01/2020</VAE>
+<TIE></TIE>
+<PI1></PI1>
+<PI2></PI2>
+<NUD>164568</NUD>
+<ORG></ORG>
+</INDEX>
+</ROOT>

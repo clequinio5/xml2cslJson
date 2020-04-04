@@ -1,0 +1,3122 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8"
+        }
+    },
+    "ROOT": {
+        "INDEX": [
+            {
+                "_attributes": {
+                    "NUMINFO": "164615",
+                    "TYPE": "DOS",
+                    "NBPAGE": "3"
+                },
+                "CONF": {
+                    "_attributes": {
+                        "IND": "0",
+                        "NIV": "0",
+                        "CLOI": ""
+                    }
+                },
+                "TABLEAU_AUT": {
+                    "INDEX": [
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164616",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "2"
+                            },
+                            "QUA": {
+                                "_text": "REFERENT"
+                            },
+                            "NOM": {
+                                "_text": "FRELON"
+                            },
+                            "COU": {
+                                "_text": "sandrine.frelon@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Sandrine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "FRELON                                            -SANDRINE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164616"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {
+                                "_text": "FONCTION:ADMIN\r\nFONCTION:DOC_ADMIN"
+                            },
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164616"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164619",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "13"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "SIMON"
+                            },
+                            "COU": {
+                                "_text": "olivier.simon@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Olivier"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "SIMON                                             -OLIVIER                       -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164619"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {
+                                "_text": "CORRESPONDING AUTHOR"
+                            },
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164619"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164621",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "5"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "CAMILLERI"
+                            },
+                            "COU": {
+                                "_text": "virginie.camilleri@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Virginie"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "CAMILLERI                                         -VIRGINIE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164621"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164621"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164624",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "7"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "PIERRISNARD"
+                            },
+                            "COU": {
+                                "_text": "sylvie.pierrisnard@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Sylvie"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LR2T"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "PIERRISNARD                                       -SYLVIE                        -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164624"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164624"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164625",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "8"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "CARASCO"
+                            },
+                            "COU": {
+                                "_text": "loic.carasco@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Loic"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LR2T"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "CARASCO                                           -LOIC                          -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164625"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164625"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164626",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "6"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "FEVRIER"
+                            },
+                            "COU": {
+                                "_text": "laureline.fevrier@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Laureline"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LR2T"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "FEVRIER                                           -LAURELINE                     -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164626"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164626"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164627",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "9"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "GILBIN"
+                            },
+                            "COU": {
+                                "_text": "rodolphe.gilbin@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Rodolphe"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "GILBIN                                            -RODOLPHE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164627"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164627"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164628",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "4"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "EB-LEVADOUX"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Yvan"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO "
+                            },
+                            "COL": {
+                                "_text": "BP3 - 13115 St Paul lez Durance Cedex"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164628"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164628"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164630",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "1"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "MOUNICOU"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Sandra"
+                            },
+                            "ORG": {
+                                "_text": "CNRS/Univ Pau & Pays Adour ES UPPA, Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux"
+                            },
+                            "SIG": {
+                                "_text": "CNRS"
+                            },
+                            "UNI": {
+                                "_text": "UMR5254"
+                            },
+                            "COL": {
+                                "_text": "Pau"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164630"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164630"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164632",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "10"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "MAHE"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Kelig"
+                            },
+                            "ORG": {
+                                "_text": "IFREMER Centre Manche Mer du Nord"
+                            },
+                            "SIG": {
+                                "_text": "IFREMER"
+                            },
+                            "UNI": {
+                                "_text": "Laboratoire ressources halieutiques"
+                            },
+                            "COL": {
+                                "_text": "Boulogne-sur-mer"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164632"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164632"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164634",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "11"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "TABOURET"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Hélène"
+                            },
+                            "ORG": {
+                                "_text": "Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux, CNRS/Univ Pau & Pays Adour/ E2S UPPA"
+                            },
+                            "SIG": {
+                                "_text": "IPREM"
+                            },
+                            "UNI": {
+                                "_text": "UMR5254"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "TABOURET                                          -HELENE                        -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164634"
+                            },
+                            "IDH": {
+                                "_text": "502092"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164634"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164635",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "12"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "BAREILLE"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Gilles"
+                            },
+                            "ORG": {
+                                "_text": "Institut des sciences analytiques et de physico-chimie pour l’environnement et les matériaux, CNRS/Univ Pau & Pays Adour/ E2S UPPA"
+                            },
+                            "SIG": {
+                                "_text": "IPREM"
+                            },
+                            "UNI": {
+                                "_text": "UMR5254"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164635"
+                            },
+                            "IDH": {
+                                "_text": "502092"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164635"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164637",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "3"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "LE GUERNIC"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Antoine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire (IRSN)"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7703"
+                            },
+                            "LAU": {
+                                "_text": "LE GUERNIC                                        -ANTOINE                       -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164637"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164637"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        }
+                    ]
+                },
+                "K_H": {
+                    "_text": "PUB20200053"
+                },
+                "AUR": {
+                    "_text": "FRELON-SAN"
+                },
+                "IDA": {
+                    "_text": "164615"
+                },
+                "TPU": {
+                    "_text": "Publication écrite"
+                },
+                "TIT": {
+                    "_text": "Use of ﬁsh otoliths as a temporal biomarker of ﬁeld uranium exposure "
+                },
+                "REI": {},
+                "REA": {
+                    "_text": "This study aimed to determine uranium (U) pollution over time using otoliths as a marker of fish U contamination. Experiments were performed in field contamination (~20 pg L-1: encaged fish: 15d, 50d and collected wild fish) and in laboratory exposure conditions (20 and 250 pg L-1,20d). We reported the U seasonal concentrations in field waterborne exposed roach fish (Rutilus rutilus), in organs and otoliths. Otoliths were analyzed by ICPMS and LA-ICP SF MS of the entire growth zone.\r\nConcentrations were measured on transects from nucleus to the edge of otoliths to characterize environmental variations of metal accumulation. Results showed a spatial and temporal variation of U contamination in water (from 51 to 9.4 pg L-1 at the surface of the water column), a high and seasonal accumulation in fish organs, mainly the digestive tract (from 1000 to 30,000 ng g-1, fw), the gills (from 1600to3200ngg-1,fw) and the muscle (from 144 to 1054 ng g-1, fw). U was detected throughout the otolith and accumulation varied over the sea- son from 70 to 350 ng g-1, close to the values measured (310 ng g-1) after high exposure levels in laboratory conditions. U in otoliths of encaged fish showed rapid and high U accumulation from 20 to 150 ng g-1. The U accumulation signal was mainly detected on the edge of the otolith, showing two U accumulation peaks, probably correlated to fish age, i.e. 2 years old. Surprisingly, elemental U and Zn signatures followed the same pattern therefore using the same uptake pathways. Laboratory, caging and field experiments indicated that otoliths were able to quickly accumulate U on the surface even for low levels and to store high levels of U. This study is an encouraging first step in using otoliths as a marker of U exposure."
+                },
+                "LAN": {
+                    "_text": "en"
+                },
+                "STY": {
+                    "_text": "ACL"
+                },
+                "TMP": {},
+                "JUR": {},
+                "DPP": {},
+                "MOR": {},
+                "MOA": {},
+                "HAR": {},
+                "ECE": {
+                    "_text": "NON"
+                },
+                "DOM": {
+                    "_text": "Secteur 6 - Recherche en Radioprotection"
+                },
+                "AXP": {
+                    "_text": "AP 003/10 - Risques Environnementaux"
+                },
+                "IPE": {
+                    "_text": "OPERA"
+                },
+                "MPA": {},
+                "INC": {
+                    "_text": "03/03/2020 à 18:50 : LRN applicable\r\n03/02/2020 à 11:23 : Available online 02 July 2019; published 10/11/2019\r\n\r\nThis work was supported by the Needs Environment consortium (CNRS, ANDRA, EDF, IRSN). LRN ?\r\n\r\nAuthor's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License\r\n"
+                },
+                "REM": {},
+                "TRP": {
+                    "_text": "can"
+                },
+                "DEP": {
+                    "_text": "Author's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>"
+                },
+                "NEP": {
+                    "_text": "24"
+                },
+                "UEP": {
+                    "_text": "month"
+                },
+                "DBP": {
+                    "_text": "03/07/2021"
+                },
+                "TRV": {
+                    "_text": "cannot"
+                },
+                "DEV": {},
+                "NEV": {
+                    "_text": "0"
+                },
+                "UEV": {},
+                "DBV": {},
+                "COG": {
+                    "_text": "Authors pre-print on any website, including arXiv and RePEC\nAuthor's post-print on author's personal website immediately\nAuthor's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>\nPermitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of <num>12</num> <period units=\"month\">months</period> to <num>48</num> <period units=\"month\">months</period>\nAuthor's post-print may be used to update arXiv and RepEC\nPublisher's version/PDF cannot be used\nMust link to publisher version with DOI\nAuthor's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License\nPublisher last reviewed on 03/06/2015"
+                },
+                "REE": {
+                    "_text": "NON"
+                },
+                "ICO": {},
+                "ABR": {},
+                "LIE": {},
+                "PAY": {},
+                "DDE": {},
+                "DFI": {},
+                "IRO": {
+                    "_text": "Science of the Total Environment"
+                },
+                "ABI": {
+                    "_text": "Sci. Total Environ."
+                },
+                "ISB": {},
+                "ISS": {
+                    "_text": "0048-9697"
+                },
+                "DPU": {
+                    "_text": "02/07/2019"
+                },
+                "VOL": {
+                    "_text": "690"
+                },
+                "NUM": {},
+                "PAG": {
+                    "_text": "511–521"
+                },
+                "IDO": {
+                    "_text": "10.1016/j.scitotenv.2019.06.534 "
+                },
+                "ETA": {
+                    "_text": "PUBLIÉ"
+                },
+                "HIS": {
+                    "_text": "03/04/2020 à 10:24 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/04/2020 à 10:23 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/03/2020 à 18:50 : Le dossier a été validé par LEGENDRE-AUD\r\n03/03/2020 à 18:50 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 11:23 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 11:22 : Check Sherpa effectué par LEGENDRE-AUD\r\n31/01/2020 à 12:35 : Le dossier a été envoyé pour validation par FRELON-SAN\r\n31/01/2020 à 12:27 : Check Sherpa effectué par FRELON-SAN\r\n30/01/2020 à 14:49 : La fiche de régularisation a été créée par FRELON-SAN"
+                },
+                "DCR": {
+                    "_text": "30/01/2020"
+                },
+                "DDM": {
+                    "_text": "03/03/2020"
+                },
+                "ACO": {
+                    "_text": "OUI"
+                },
+                "AVU": {
+                    "_text": "FRELON-SAN\r\n\r\nPROFIL:RESP_INNOVATION\r\nLALOI-PAT\r\nBESNUS-FRA\r\n\r\n\r\nPROFIL:DOC_ADMIN\r\nPROFIL:ADMIN"
+                },
+                "AMO": {
+                    "_text": "SESIN"
+                },
+                "ASU": {
+                    "_text": "SESIN"
+                },
+                "TVT": {},
+                "NOM": {
+                    "_text": "FRELON"
+                },
+                "PRE": {
+                    "_text": "Sandrine"
+                },
+                "UNI": {
+                    "_text": "PSE-ENV/SRTE/LECO"
+                },
+                "CDL": {
+                    "_text": "LALOI-PAT"
+                },
+                "DIR": {
+                    "_text": "BESNUS-FRA"
+                },
+                "DBO": {},
+                "DBD": {},
+                "DBA": {},
+                "CDS": {
+                    "_text": "NON"
+                },
+                "DDU": {
+                    "_text": "NON"
+                },
+                "REG": {
+                    "_text": "OUI"
+                },
+                "PDF": {
+                    "_text": "OUI"
+                },
+                "HAL": {
+                    "_text": "ERR"
+                },
+                "EEH": {
+                    "_text": "[ERROR]\r\n[The supplied format is not the same as that identified in the Packaging header and/or that supported by the server]\r\n[processing failed]\r\n[The supplied XML description does not validate the AOfr schema... The document has no document element.]\r\n"
+                },
+                "CRE": {
+                    "_text": "FRELON-SAN"
+                },
+                "DEL": {},
+                "EDI": {
+                    "_text": "Elsevier"
+                },
+                "AVI": {},
+                "AUD": {},
+                "DDL": {},
+                "DAA": {},
+                "CLD": {},
+                "CSH": {
+                    "_text": "OUI"
+                },
+                "UCP": {
+                    "_text": "732"
+                },
+                "UCV": {},
+                "PIA": {},
+                "NPD": {},
+                "NDS": {},
+                "MDS": {},
+                "MAT": {
+                    "_text": "IRSN.ATHENA@irsn.fr"
+                },
+                "DHA": {
+                    "_text": "sde"
+                },
+                "NRF": {
+                    "_text": "0"
+                },
+                "DVA": {
+                    "_text": "03/03/2020"
+                },
+                "IDM": {},
+                "REP": {
+                    "_text": "1"
+                },
+                "DAL": {},
+                "LDA": {
+                    "_text": " FRELON SIMON CAMILLERI PIERRISNARD CARASCO FEVRIER GILBIN EB-LEVADOUX MOUNICOU MAHE TABOURET BAREILLE LE GUERNIC"
+                },
+                "ARV": {
+                    "_text": "contact AUT REF"
+                },
+                "ONG": {
+                    "_text": "DOSSIER"
+                },
+                "GVS": {
+                    "_text": "NON"
+                },
+                "CKH": {
+                    "_text": "PUB20200053"
+                },
+                "NDO": {
+                    "_text": "PUB20200053"
+                },
+                "DD2": {},
+                "PRI": {
+                    "_text": "RESP_INNOVATION"
+                },
+                "VDI": {},
+                "VRI": {},
+                "DRF": {},
+                "PDA": {},
+                "VAE": {
+                    "_text": "30/01/2020"
+                },
+                "TIE": {},
+                "PI1": {},
+                "PI2": {},
+                "NUD": {
+                    "_text": "164615"
+                },
+                "ORG": {}
+            },
+            {
+                "_attributes": {
+                    "NUMINFO": "164598",
+                    "TYPE": "DOS",
+                    "NBPAGE": "7"
+                },
+                "CONF": {
+                    "_attributes": {
+                        "IND": "0",
+                        "NIV": "0",
+                        "CLOI": ""
+                    }
+                },
+                "TABLEAU_AUT": {
+                    "INDEX": [
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164599",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "9"
+                            },
+                            "QUA": {
+                                "_text": "REFERENT"
+                            },
+                            "NOM": {
+                                "_text": "FRELON"
+                            },
+                            "COU": {
+                                "_text": "sandrine.frelon@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Sandrine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {
+                                "_text": "FRELON                                            -SANDRINE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164599"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {
+                                "_text": "CORRESPONDING AUTHOR"
+                            },
+                            "ASU": {
+                                "_text": "FONCTION:ADMIN\r\nFONCTION:DOC_ADMIN"
+                            },
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164599"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164600",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "1"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "DUBOIS"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Cécile"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164600"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164600"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164602",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "2"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "POPHILLAT"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Matthieu"
+                            },
+                            "ORG": {
+                                "_text": "Aix-Marseille Univ, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Protéomique"
+                            },
+                            "SIG": {},
+                            "UNI": {
+                                "_text": "CRCM"
+                            },
+                            "COL": {
+                                "_text": "Marseille"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164602"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164602"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164604",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "8"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "CAMOIN"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Luc"
+                            },
+                            "ORG": {
+                                "_text": "Aix-Marseille University, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Proteomics"
+                            },
+                            "SIG": {
+                                "_text": "CRCM"
+                            },
+                            "UNI": {},
+                            "COL": {
+                                "_text": "Marseille"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {
+                                "_text": "CAMOIN                                            -LUC                           -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164604"
+                            },
+                            "IDH": {},
+                            "PPL": {
+                                "_text": "CORRESPONDING AUTHOR"
+                            },
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_V"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164604"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164605",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "3"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "AUDEBERT"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Stéphane"
+                            },
+                            "ORG": {
+                                "_text": "Aix-Marseille University, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Proteomics"
+                            },
+                            "SIG": {
+                                "_text": "CRCM"
+                            },
+                            "UNI": {},
+                            "COL": {
+                                "_text": "Marseille"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {
+                                "_text": "AUDEBERT                                          -STEPHANE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164605"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_V"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164605"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164606",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "4"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "FOURQUET"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Patrick"
+                            },
+                            "ORG": {
+                                "_text": "Aix-Marseille Univ, Inserm, CNRS, Institut Paoli-Calmettes, CRCM, Marseille Protéomique"
+                            },
+                            "SIG": {},
+                            "UNI": {
+                                "_text": "CRCM"
+                            },
+                            "COL": {
+                                "_text": "Marseille"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164606"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164606"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164608",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "7"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "GALAS"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Simon"
+                            },
+                            "ORG": {
+                                "_text": "IBMM, University of Montpellier, CNRS, ENSCM"
+                            },
+                            "SIG": {
+                                "_text": "IBMM"
+                            },
+                            "UNI": {},
+                            "COL": {
+                                "_text": "Montpellier"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164608"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_V"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164608"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164610",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "5"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "LECOMTE"
+                            },
+                            "COU": {
+                                "_text": "catherine.lecomte-pradines@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Catherine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {
+                                "_text": "LECOMTE                                           -CATHERINE                     -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164610"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164610"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164611",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "6"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "DUBOURG"
+                            },
+                            "COU": {
+                                "_text": "nicolas.dubourg@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Nicolas"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7702"
+                            },
+                            "LAU": {
+                                "_text": "DUBOURG                                           -NICOLAS                       -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164611"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164611"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        }
+                    ]
+                },
+                "K_H": {
+                    "_text": "PUB20200052"
+                },
+                "AUR": {
+                    "_text": "FRELON-SAN"
+                },
+                "IDA": {
+                    "_text": "164598"
+                },
+                "TPU": {
+                    "_text": "Publication écrite"
+                },
+                "TIT": {
+                    "_text": "Differential modification of the C. elegans proteome in response to acute and chronic gamma radiation: link with reproduction decline"
+                },
+                "REI": {},
+                "REA": {
+                    "_text": "Emission of ionizing radiation in the environment is a natural phenomenon which can be enhanced by human activities. Ecosystems are then chronically exposed to ionizing radiations. But environmental risk assessment of chronic exposure suffers from a lack of knowledge. Extrapolation of data from acute to chronic exposure is not always relevant, and can lead to uncertainties as effects could be different between the two irradiation modes, especially regarding reproduction endpoint, which is an ecologically relevant parameter. In the present study, we decided to refine the understanding of the molecular mechanisms involved in response to acute and chronic -irradiation by a global proteome label free LC-MS/MS analysis. C. elegans were exposed to 3 common cumulated radiation doses for acute or chronic exposure condition and global modification of the proteome was studied. This global analysis of protein expression has demonstrated the modulation of proteins involved in regulatory biological processes such as lipid transport, DNA replication, germ cell development, apoptosis, ion transport, cuticle development, and aging at lower doses than those for which individual effects on reproduction have been previously observed. Thus, these proteins could constitute early and sensitive markers of radio-induced reprotoxicity; more specifically HAT-1, RPS-19 in acute and VIT-3 for chronic conditions that are expressed in a dose-dependent manner. Finally, to focus on reproduction process, the proteomic analysis showed either repression or overexpression of 12 common proteins in organisms exposed to acute or chronic irradiation, respectively. These proteins include the vitellogenin cluster notably involved in lipid transport and ovocyte maturation and proteins involved in cuticle development and molting i.e COL-14, GLF-1, NOAH-1, NOAH-2, ACN-1. This results show that protein expression modulation is a sensitive and predictive marker of the effects of acute and chronic exposure regarding reproduction parameter, but also highlight limitation of data extrapolation from acute to chronic exposure."
+                },
+                "LAN": {
+                    "_text": "en"
+                },
+                "STY": {
+                    "_text": "ACL"
+                },
+                "TMP": {},
+                "JUR": {},
+                "DPP": {},
+                "MOR": {},
+                "MOA": {},
+                "HAR": {},
+                "ECE": {
+                    "_text": "NON"
+                },
+                "DOM": {
+                    "_text": "Secteur 6 - Recherche en Radioprotection"
+                },
+                "AXP": {
+                    "_text": "AP 003/07 - Effets biologiques et sanitaires des RI"
+                },
+                "IPE": {
+                    "_text": "ISATIS"
+                },
+                "MPA": {},
+                "INC": {
+                    "_text": "13/02/2020 à 09:34 : HAL Ok\r\n03/02/2020 à 10:25 : Available online 23 April 2019; published 01/08/2019\r\n\r\nadd SI\r\n\r\nAuthors want to thanks Needs Environment consortium for the PROBIORICA project support. LRN applicable\r\n"
+                },
+                "REM": {},
+                "TRP": {
+                    "_text": "can"
+                },
+                "DEP": {
+                    "_text": "Author's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>"
+                },
+                "NEP": {
+                    "_text": "6"
+                },
+                "UEP": {
+                    "_text": "month"
+                },
+                "DBP": {
+                    "_text": "23/10/2019"
+                },
+                "TRV": {
+                    "_text": "cannot"
+                },
+                "DEV": {},
+                "NEV": {
+                    "_text": "0"
+                },
+                "UEV": {},
+                "DBV": {},
+                "COG": {
+                    "_text": "Authors pre-print on any website, including arXiv and RePEC\nAuthor's post-print on author's personal website immediately\nAuthor's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>\nPermitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of <num>12</num> <period units=\"month\">months</period> to <num>48</num> <period units=\"month\">months</period>\nAuthor's post-print may be used to update arXiv and RepEC\nPublisher's version/PDF cannot be used\nMust link to publisher version with DOI\nAuthor's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License\nPublisher last reviewed on 03/06/2015"
+                },
+                "REE": {
+                    "_text": "NON"
+                },
+                "ICO": {},
+                "ABR": {},
+                "LIE": {},
+                "PAY": {},
+                "DDE": {},
+                "DFI": {},
+                "IRO": {
+                    "_text": "Science of the Total Environment"
+                },
+                "ABI": {
+                    "_text": "Sci. Total Environ."
+                },
+                "ISB": {},
+                "ISS": {
+                    "_text": "0048-9697"
+                },
+                "DPU": {
+                    "_text": "23/04/2019"
+                },
+                "VOL": {
+                    "_text": "676"
+                },
+                "NUM": {},
+                "PAG": {
+                    "_text": "767-781"
+                },
+                "IDO": {
+                    "_text": "10.1016/j.scitotenv.2019.04.039"
+                },
+                "ETA": {
+                    "_text": "PUBLIÉ"
+                },
+                "HIS": {
+                    "_text": "13/02/2020 à 09:34 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 21:03 : Dossier exporté dans HAL\r\n03/02/2020 à 10:39 : Le dossier a été validé par LEGENDRE-AUD\r\n03/02/2020 à 10:39 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 10:25 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 10:21 : Check Sherpa effectué par LEGENDRE-AUD\r\n31/01/2020 à 16:15 : Le dossier a été envoyé pour validation par FRELON-SAN\r\n31/01/2020 à 16:11 : Check Sherpa effectué par FRELON-SAN\r\n31/01/2020 à 16:11 : Check Sherpa effectué par FRELON-SAN\r\n30/01/2020 à 15:24 : La fiche a été mise à jour par LEGENDRE-AUD\r\n30/01/2020 à 14:21 : La fiche de régularisation a été créée par FRELON-SAN"
+                },
+                "DCR": {
+                    "_text": "30/01/2020"
+                },
+                "DDM": {
+                    "_text": "03/02/2020"
+                },
+                "ACO": {
+                    "_text": "OUI"
+                },
+                "AVU": {
+                    "_text": "FRELON-SAN\r\n\r\nPROFIL:RESP_INNOVATION\r\nLALOI-PAT\r\nBESNUS-FRA\r\n\r\n\r\nPROFIL:DOC_ADMIN\r\nPROFIL:ADMIN"
+                },
+                "AMO": {
+                    "_text": "SESIN"
+                },
+                "ASU": {
+                    "_text": "SESIN"
+                },
+                "TVT": {},
+                "NOM": {
+                    "_text": "FRELON"
+                },
+                "PRE": {
+                    "_text": "Sandrine"
+                },
+                "UNI": {
+                    "_text": "PSE-ENV/SRTE/LECO"
+                },
+                "CDL": {
+                    "_text": "LALOI-PAT"
+                },
+                "DIR": {
+                    "_text": "BESNUS-FRA"
+                },
+                "DBO": {},
+                "DBD": {},
+                "DBA": {},
+                "CDS": {
+                    "_text": "NON"
+                },
+                "DDU": {
+                    "_text": "NON"
+                },
+                "REG": {
+                    "_text": "OUI"
+                },
+                "PDF": {
+                    "_text": "OUI"
+                },
+                "HAL": {
+                    "_text": "OUI"
+                },
+                "EEH": {},
+                "CRE": {
+                    "_text": "FRELON-SAN"
+                },
+                "DEL": {},
+                "EDI": {
+                    "_text": "Elsevier"
+                },
+                "AVI": {},
+                "AUD": {},
+                "DDL": {},
+                "DAA": {},
+                "CLD": {},
+                "CSH": {
+                    "_text": "OUI"
+                },
+                "UCP": {
+                    "_text": "183"
+                },
+                "UCV": {},
+                "PIA": {},
+                "NPD": {},
+                "NDS": {},
+                "MDS": {},
+                "MAT": {
+                    "_text": "IRSN.ATHENA@irsn.fr"
+                },
+                "DHA": {
+                    "_text": "sdv"
+                },
+                "NRF": {
+                    "_text": "0"
+                },
+                "DVA": {
+                    "_text": "03/02/2020"
+                },
+                "IDM": {},
+                "REP": {
+                    "_text": "1"
+                },
+                "DAL": {},
+                "LDA": {
+                    "_text": " FRELON DUBOIS POPHILLAT CAMOIN AUDEBERT FOURQUET GALAS LECOMTE DUBOURG"
+                },
+                "ARV": {},
+                "ONG": {
+                    "_text": "DOSSIER"
+                },
+                "GVS": {
+                    "_text": "NON"
+                },
+                "CKH": {
+                    "_text": "PUB20200052"
+                },
+                "NDO": {
+                    "_text": "PUB20200052"
+                },
+                "DD2": {},
+                "PRI": {
+                    "_text": "RESP_INNOVATION"
+                },
+                "VDI": {},
+                "VRI": {},
+                "DRF": {},
+                "PDA": {},
+                "VAE": {
+                    "_text": "30/01/2020"
+                },
+                "TIE": {},
+                "PI1": {},
+                "PI2": {},
+                "NUD": {
+                    "_text": "164598"
+                },
+                "ORG": {}
+            },
+            {
+                "_attributes": {
+                    "NUMINFO": "164568",
+                    "TYPE": "DOS",
+                    "NBPAGE": "4"
+                },
+                "CONF": {
+                    "_attributes": {
+                        "IND": "0",
+                        "NIV": "0",
+                        "CLOI": ""
+                    }
+                },
+                "TABLEAU_AUT": {
+                    "INDEX": [
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164569",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "6"
+                            },
+                            "QUA": {
+                                "_text": "REFERENT"
+                            },
+                            "NOM": {
+                                "_text": "FRELON"
+                            },
+                            "COU": {
+                                "_text": "sandrine.frelon@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Sandrine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {
+                                "_text": "FRELON                                            -SANDRINE                      -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164569"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {
+                                "_text": "CORRESPONDING AUTHOR"
+                            },
+                            "ASU": {
+                                "_text": "FONCTION:ADMIN\r\nFONCTION:DOC_ADMIN"
+                            },
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164569"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164574",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "3"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "LECOMTE-PRADINES"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Catherine"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire (IRSN)"
+                            },
+                            "SIG": {},
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {
+                                "_text": "LECOMTE-PRADINES                                  -CATHERINE                     -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164574"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164574"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164575",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "2"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "GALAS"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Simon"
+                            },
+                            "ORG": {
+                                "_text": "IBMM, University of Montpellier, CNRS, ENSCM"
+                            },
+                            "SIG": {},
+                            "UNI": {},
+                            "COL": {
+                                "_text": "Montpellier"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164575"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_V"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164575"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164579",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "4"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "DUBOIS"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Cécile"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache, 13115 Saint Paul lez Durance Cedex"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {},
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164579"
+                            },
+                            "IDH": {},
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_C_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164579"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164581",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "5"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "DUBOURG"
+                            },
+                            "COU": {
+                                "_text": "nicolas.dubourg@irsn.fr"
+                            },
+                            "PRE": {
+                                "_text": "Nicolas"
+                            },
+                            "ORG": {
+                                "_text": "Institut de radioprotection et sûreté nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {
+                                "_text": "Cadarache"
+                            },
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {
+                                "_text": "DUBOURG                                           -NICOLAS                       -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164581"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {},
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164581"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "NUMINFO": "164649",
+                                "TYPE": "TAU",
+                                "NBPAGE": "0"
+                            },
+                            "CONF": {
+                                "_attributes": {
+                                    "IND": "0",
+                                    "NIV": "0",
+                                    "CLOI": ""
+                                }
+                            },
+                            "ORD": {
+                                "_text": "1"
+                            },
+                            "QUA": {},
+                            "NOM": {
+                                "_text": "KUZMIC"
+                            },
+                            "COU": {},
+                            "PRE": {
+                                "_text": "Mira"
+                            },
+                            "ORG": {
+                                "_text": "Institut de Radioprotection et de Sûreté Nucléaire"
+                            },
+                            "SIG": {
+                                "_text": "IRSN"
+                            },
+                            "UNI": {
+                                "_text": "PSE-ENV/SRTE/LECO"
+                            },
+                            "COL": {},
+                            "PAY": {
+                                "_text": "fr"
+                            },
+                            "IOR": {},
+                            "LTA": {
+                                "_text": "7700"
+                            },
+                            "LAU": {
+                                "_text": "KUZMIC                                            -MIRA                          -01"
+                            },
+                            "ACO": {
+                                "_text": "OUI"
+                            },
+                            "NUD": {
+                                "_text": "164649"
+                            },
+                            "IDH": {
+                                "_text": "300040"
+                            },
+                            "PPL": {},
+                            "ASU": {},
+                            "ETU": {
+                                "_text": "VALIDE"
+                            },
+                            "EXT": {
+                                "_text": "OUI"
+                            },
+                            "PIA": {
+                                "_text": "France"
+                            },
+                            "CSR": {
+                                "_text": "INS_E_LAB_C"
+                            },
+                            "IDM": {},
+                            "DCR": {
+                                "_text": "30/01/2020"
+                            },
+                            "REP": {},
+                            "ARV": {},
+                            "TYP": {
+                                "_text": "TAU"
+                            },
+                            "CKH": {
+                                "_text": "164649"
+                            },
+                            "ONG": {
+                                "_text": "TAU"
+                            }
+                        }
+                    ]
+                },
+                "K_H": {
+                    "_text": "PUB20200050"
+                },
+                "AUR": {
+                    "_text": "FRELON-SAN"
+                },
+                "IDA": {
+                    "_text": "164568"
+                },
+                "TPU": {
+                    "_text": "Publication écrite"
+                },
+                "TIT": {
+                    "_text": "Interplay between ionizing radiation effects and aging in C. elegans"
+                },
+                "REI": {},
+                "REA": {
+                    "_text": "Living species are chronically exposed to environmental ionizing radiations from sources that can be overexpressed by nuclear accidents. In invertebrates, reproduction is the most radiosensitive studied endpoint, likely to be connected with aging. Surprisingly, aging is a sparsely investigated endpoint after chronic ionizing radiation, whereas understanding it is of fundamental interest in biology and medicine. Indeed, aging and aging-related diseases (e.g., cancer and degenerative diseases) cause about 90 % of deaths in developed countries. Therefore, glp-1 sterile Caenorhabditis elegans nematode was used to assess the impact of chronic gamma irradiation on the lifespan. Analyses were performed, at the individual level, on aging and, in order to delve deeper into the mechanisms, at the molecular level, on oxidative damage (carbonylation), biomolecules (lipids, proteins and nucleic acids) and their colocalization. We observed that ionizing radiation accelerates aging (whatever the duration (3 to 19 days)/dose (0.5 to 24 Gy)/dose rate (7 and 52 mGy.h 1) tested) leading to a longevity value equivalent to that of wt nematode (~25-30 days). Moreover, the level of protein oxidative damage (carbonylation) turned out to be good cellular biomarker of aging, since it increases with age. Conversely, chronic radiation treatments reduced carbonylation levels and induced neutral lipid catabolism whatever the dose rate and the final delivered dose. Finally, under some conditions a lipid-protein colocalization without any carbonyl was observed; this could be linked to yolk accumulation in glp-1 nematodes. To conclude, we noticed through this study a link between chronic gamma exposure, lifespan shortening and lipid level decrease associated with a decrease in the overall carbonylation."
+                },
+                "LAN": {
+                    "_text": "en"
+                },
+                "STY": {
+                    "_text": "ACL"
+                },
+                "TMP": {},
+                "JUR": {},
+                "DPP": {},
+                "MOR": {},
+                "MOA": {},
+                "HAR": {},
+                "ECE": {
+                    "_text": "NON"
+                },
+                "DOM": {
+                    "_text": "Secteur 6 - Recherche en Radioprotection"
+                },
+                "AXP": {
+                    "_text": "AP 003/07 - Effets biologiques et sanitaires des RI"
+                },
+                "IPE": {
+                    "_text": "ISATIS"
+                },
+                "MPA": {},
+                "INC": {
+                    "_text": "20/03/2020 à 16:59 : fonds publics de financement >50%.\r\n03/02/2020 à 11:09 : Available online 08 February 2019; published 01/04/2019\r\n\r\nThe authors thank the IRSN, MedILS and ERASMUS for their financial support.  LRN ?\r\n\r\nAuthor's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License\r\n"
+                },
+                "REM": {},
+                "TRP": {
+                    "_text": "can"
+                },
+                "DEP": {
+                    "_text": "Author's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>"
+                },
+                "NEP": {
+                    "_text": "6"
+                },
+                "UEP": {
+                    "_text": "month"
+                },
+                "DBP": {
+                    "_text": "10/08/2019"
+                },
+                "TRV": {
+                    "_text": "cannot"
+                },
+                "DEV": {},
+                "NEV": {
+                    "_text": "0"
+                },
+                "UEV": {},
+                "DBV": {},
+                "COG": {
+                    "_text": "Authors pre-print on any website, including arXiv and RePEC\nAuthor's post-print on author's personal website immediately\nAuthor's post-print on open access repository after an embargo period of between <num>12</num> <period units=\"month\">months</period> and <num>48</num> <period units=\"month\">months</period>\nPermitted deposit due to Funding Body, Institutional and Governmental policy or mandate, may be required to comply with embargo periods of <num>12</num> <period units=\"month\">months</period> to <num>48</num> <period units=\"month\">months</period>\nAuthor's post-print may be used to update arXiv and RepEC\nPublisher's version/PDF cannot be used\nMust link to publisher version with DOI\nAuthor's post-print must be released with a Creative Commons Attribution Non-Commercial No Derivatives License\nPublisher last reviewed on 03/06/2015"
+                },
+                "REE": {
+                    "_text": "NON"
+                },
+                "ICO": {},
+                "ABR": {},
+                "LIE": {},
+                "PAY": {},
+                "DDE": {},
+                "DFI": {},
+                "IRO": {
+                    "_text": "Free Radical Biology and Medicine\r\n"
+                },
+                "ABI": {},
+                "ISB": {},
+                "ISS": {
+                    "_text": "0891-5849"
+                },
+                "DPU": {
+                    "_text": "08/02/2019"
+                },
+                "VOL": {
+                    "_text": "134"
+                },
+                "NUM": {},
+                "PAG": {
+                    "_text": "657–665"
+                },
+                "IDO": {
+                    "_text": "10.1016/j.freeradbiomed.2019.02.002"
+                },
+                "ETA": {
+                    "_text": "PUBLIÉ"
+                },
+                "HIS": {
+                    "_text": "20/03/2020 à 16:59 : Le dossier a été validé par LEGENDRE-AUD\r\n20/03/2020 à 16:59 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 11:09 : La fiche a été mise à jour par LEGENDRE-AUD\r\n03/02/2020 à 11:02 : Check Sherpa effectué par LEGENDRE-AUD\r\n31/01/2020 à 16:26 : Le dossier a été envoyé pour validation par FRELON-SAN\r\n31/01/2020 à 16:26 : Check Sherpa effectué par FRELON-SAN\r\n30/01/2020 à 15:25 : La fiche a été mise à jour par LEGENDRE-AUD\r\n30/01/2020 à 13:59 : La fiche de régularisation a été créée par FRELON-SAN"
+                },
+                "DCR": {
+                    "_text": "30/01/2020"
+                },
+                "DDM": {
+                    "_text": "20/03/2020"
+                },
+                "ACO": {
+                    "_text": "OUI"
+                },
+                "AVU": {
+                    "_text": "FRELON-SAN\r\n\r\nPROFIL:RESP_INNOVATION\r\nLALOI-PAT\r\nBESNUS-FRA\r\n\r\n\r\nPROFIL:DOC_ADMIN\r\nPROFIL:ADMIN"
+                },
+                "AMO": {
+                    "_text": "SESIN"
+                },
+                "ASU": {
+                    "_text": "SESIN"
+                },
+                "TVT": {},
+                "NOM": {
+                    "_text": "FRELON"
+                },
+                "PRE": {
+                    "_text": "Sandrine"
+                },
+                "UNI": {
+                    "_text": "PSE-ENV/SRTE/LECO"
+                },
+                "CDL": {
+                    "_text": "LALOI-PAT"
+                },
+                "DIR": {
+                    "_text": "BESNUS-FRA"
+                },
+                "DBO": {},
+                "DBD": {},
+                "DBA": {},
+                "CDS": {
+                    "_text": "NON"
+                },
+                "DDU": {
+                    "_text": "NON"
+                },
+                "REG": {
+                    "_text": "OUI"
+                },
+                "PDF": {
+                    "_text": "OUI"
+                },
+                "HAL": {
+                    "_text": "NON"
+                },
+                "EEH": {},
+                "CRE": {
+                    "_text": "FRELON-SAN"
+                },
+                "DEL": {},
+                "EDI": {
+                    "_text": "ELSEVIER"
+                },
+                "AVI": {},
+                "AUD": {},
+                "DDL": {},
+                "DAA": {},
+                "CLD": {},
+                "CSH": {
+                    "_text": "OUI"
+                },
+                "UCP": {
+                    "_text": "183"
+                },
+                "UCV": {},
+                "PIA": {},
+                "NPD": {},
+                "NDS": {},
+                "MDS": {},
+                "MAT": {
+                    "_text": "IRSN.ATHENA@irsn.fr"
+                },
+                "DHA": {
+                    "_text": "sdv"
+                },
+                "NRF": {
+                    "_text": "0"
+                },
+                "DVA": {
+                    "_text": "20/03/2020"
+                },
+                "IDM": {},
+                "REP": {
+                    "_text": "1"
+                },
+                "DAL": {},
+                "LDA": {
+                    "_text": " FRELON LECOMTE-PRADINES GALAS DUBOIS DUBOURG KUZMIC"
+                },
+                "ARV": {
+                    "_text": "contact AUT REF"
+                },
+                "ONG": {
+                    "_text": "DOSSIER"
+                },
+                "GVS": {
+                    "_text": "NON"
+                },
+                "CKH": {
+                    "_text": "PUB20200050"
+                },
+                "NDO": {
+                    "_text": "PUB20200050"
+                },
+                "DD2": {},
+                "PRI": {
+                    "_text": "RESP_INNOVATION"
+                },
+                "VDI": {},
+                "VRI": {},
+                "DRF": {},
+                "PDA": {},
+                "VAE": {
+                    "_text": "30/01/2020"
+                },
+                "TIE": {},
+                "PI1": {},
+                "PI2": {},
+                "NUD": {
+                    "_text": "164568"
+                },
+                "ORG": {}
+            }
+        ]
+    }
+}
