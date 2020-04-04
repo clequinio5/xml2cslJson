@@ -1,8 +1,8 @@
-### ATHENA vers ZOTERO ###
+# XML vers CSL-JSON
 
 # Que fait ce script?
 
-Le script prend en entrée un xml généré par Athena (Sesin) et fournit en sortie un csl-json qui peut être chargé dans Zotero
+Le script prend en entrée un xml généré par Athena et fournit en sortie un csl-json qui peut être chargé dans Zotero
 
 
 # Usage
